@@ -31,13 +31,13 @@
 
  - **Detection of Epileptic Seizures** 
  -- Developed a machine learning algorithm that detected seizure in an EEG signal. Utilized Scikit, time series data reduction using FFT, Bandpower techniques 
- 
+ [GitHub Repo](https://github.com/vidyabulusu/SeizureDetection/)
 
 > FFT, Scikit Learn, Random Forest
 
  - **Prediction of risk of default (American Express Dataset)**
  -- Used AWS, SparkML to predict the default risk per customer as part of the Kaggle Challenge. Big data task with 190 features and over 50GB dataset
- 
+[GitHub Repo](https://github.com/vidyabulusu/AmexDefaultPrediction)
 
 > AWS, AWS Clusters, SparkML, PySpark, Logistic Regression
 
