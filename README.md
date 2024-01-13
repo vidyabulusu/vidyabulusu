@@ -2,7 +2,7 @@
 
 # Vidya Bulusu
 
- Data Science / Machine Learning Graduate Student at Rice University
+ Data Scientist | Rice University Graduate 2023
 
 ## Talk to me about
 
@@ -28,6 +28,16 @@
  - Jupyter 
 
 ## Projects
+
+ - **Disease Named Entity Recognition** 
+ -- Performed Named Entity Recognition (NER) on NCBI-Disease dataset using DistilBERT and custom model, NanoBERT
+   
+> Deep learning ,DistilBERT, Tensorflow, Keras 
+
+- **Automatic Lip-Reading (ALR) with Deep Learning** 
+ -- Implemented an automated lip-reading algorithm using AV-HuBERT on custom video data
+   
+> Deep learning ,BERT, Image and Video Analysis, Keras
 
  - **Detection of Epileptic Seizures** 
  -- Developed a machine learning algorithm that detected seizure in an EEG signal. Utilized Scikit, time series data reduction using FFT, Bandpower techniques 
